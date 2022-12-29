@@ -1,8 +1,5 @@
 env
 
-# Ignore *.pth models
-*.pth
-
 # Ignoring pycache inside pychat
 __pycache__
 .vscode
